@@ -1,6 +1,7 @@
 # octra wallet generator
 
 ## quick Start
+download
 
 **download and start wallet generator web UI with a single command:**
 
